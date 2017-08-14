@@ -1,4 +1,4 @@
-package br.com.fiap;
+package br.com.fiap.aula1;
 
 import java.net.MalformedURLException;
 import java.rmi.Naming;

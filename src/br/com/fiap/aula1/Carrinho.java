@@ -1,4 +1,4 @@
-package br.com.fiap;
+package br.com.fiap.aula1;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

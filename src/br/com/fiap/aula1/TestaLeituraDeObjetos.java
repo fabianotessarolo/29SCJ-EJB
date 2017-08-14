@@ -1,4 +1,4 @@
-package br.com.fiap;
+package br.com.fiap.aula1;
 
 import java.io.FileInputStream;
 import java.io.IOException;
