@@ -1,0 +1,17 @@
+2017-08-21 18:03:40,832 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @308486ms
+2017-08-21 18:03:43,023 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2017-08-21 18:03:43,251 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5637f431{/help,null,AVAILABLE}
+2017-08-21 18:03:43,453 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1464c72a{HTTP/1.1,[http/1.1]}{127.0.0.1:51307}
+2017-08-21 18:03:43,453 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @311110ms
+2017-08-21 19:08:58,904 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @103183ms
+2017-08-21 19:09:01,199 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2017-08-21 19:09:01,545 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@69620844{/help,null,AVAILABLE}
+2017-08-21 19:09:02,137 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1fac1886{HTTP/1.1,[http/1.1]}{127.0.0.1:39048}
+2017-08-21 19:09:02,137 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @106536ms
+2017-08-21 19:18:40,060 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1fac1886{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2017-08-21 19:18:40,078 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@69620844{/help,null,UNAVAILABLE}
+2017-08-21 20:15:33,877 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @29630ms
+2017-08-21 20:15:33,972 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2017-08-21 20:15:34,037 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6986215{/help,null,AVAILABLE}
+2017-08-21 20:15:34,052 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@49cac9cf{HTTP/1.1,[http/1.1]}{127.0.0.1:17839}
+2017-08-21 20:15:34,053 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @29808ms
